@@ -16,7 +16,7 @@ local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
-# Environments
+# AWS Environment
 .bash_history
 .bash_logout
 .cache
